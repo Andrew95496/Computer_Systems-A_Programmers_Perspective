@@ -3,8 +3,9 @@ Notes and Assignments form the book: Computer Systems: A Programmer's Perspectiv
 
 Book used:
 
-![book](./images/Book.jpeg)
+![book](./Images/Book.jpeg)
 
 Lectures:
 
 https://www.youtube.com/playlist?list=PLyboo2CCDSWnhzzzzDQ3OBPrRiIjl-aIE
+
